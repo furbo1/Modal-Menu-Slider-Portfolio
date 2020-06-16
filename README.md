@@ -8,3 +8,4 @@ Simple landing page with sliding menu and modal
 - Style side nav and modal
 - Add functionality to make menu open/close on button click
 - Add functionality to make modal open/close on button click
+- View/test it here: https://furbo1.github.io/Modal-Menu-Slider-Portfolio/
